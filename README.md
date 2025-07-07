@@ -45,6 +45,8 @@ void loop() {
 
 ### 동영상
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9K9Y-W1CK3E" frameborder="0" allowfullscreen></iframe>
+
 [![온도-LED 변화](https://img.youtube.com/vi/9K9Y-W1CK3E/0.jpg)](https://youtube.com/shorts/9K9Y-W1CK3E?si=MWaWgp3jyDSlz0Xn) 
 
 ## 느낀점
