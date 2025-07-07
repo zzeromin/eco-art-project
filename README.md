@@ -30,6 +30,8 @@
 ![설명](회로도.png)
 
 ### 아두이노 코드
+[코드링크](https://github.com/zzeromin/eco-art-project/)
+
 ```cpp
 // 여기에 우리 팀이 작성한 최종 아두이노 코드를 붙여넣어 주세요.
 void setup() {
