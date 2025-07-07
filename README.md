@@ -1,5 +1,5 @@
 # eco-art-project
-시흥고 에코아트 만들기 자료
+에코 포트폴리오 : AI로 그리는, 환경에 관한 나의 이야기
 
 # 프로젝트: (여기에 우리 작품의 제목을 적어주세요)
 
@@ -38,6 +38,10 @@ void loop() {
   // ...
 }
 ```
+
+### 동영상
+
+[![온도-LED 변화](https://img.youtube.com/vi/9K9Y-W1CK3E/0.jpg)](https://youtube.com/shorts/9K9Y-W1CK3E?si=MWaWgp3jyDSlz0Xn) 
 
 ## 느낀점
 
