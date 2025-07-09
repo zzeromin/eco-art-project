@@ -55,7 +55,7 @@ void loop() {
 ![완성품 2](images/final2.jpg)
 
 
-**🎯 완성품 소개 영상**
+## 🎯 완성품 소개 영상
 [![온도-LED변](https://img.youtube.com/vi/9K9Y-W1CK3E/0.jpg)](https://www.youtube.com/shorts/9K9Y-W1CK3E) 
 
 
