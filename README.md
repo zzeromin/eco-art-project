@@ -1,4 +1,4 @@
-'''
+``` cpp
 void setup() {
   pinMode(13, OUTPUT);
 }
@@ -9,7 +9,7 @@ void loop() {
   digitalWrite(13, LOW);   // 13번 핀에 전기를 끊습니다. (LED 꺼짐)
   delay(1000);             // 1초 동안 기다립니다
 }
-'''
+```
 
 
 ![아두이노](arduino.jpg)
